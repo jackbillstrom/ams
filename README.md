@@ -17,5 +17,6 @@ sudo ams.py
 ```
 
 
-**What is AMS?**
+What is AMS
+===========
 AMS stands for "Arbetsmarknadsstyrelsen", which now is known as "Arbetsförmedlingen". That is where we are looking for jobs, my purpose with this script was just to learn how I could dump all the employers email-adresses, which later on could be used on how to bulk-email your CV/PM. 
